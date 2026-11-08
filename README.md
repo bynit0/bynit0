@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nito.
 
-<!--
-**bynit0/bynit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software because I enjoy creating things that people can actually use.
 
-Here are some ideas to get you started:
+Most of my work revolves around TypeScript, JavaScript, Python, and Linux, but I'm also interested in game development, game soundtracks, and 3D animation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I enjoy
+
+- Building useful software
+- Open-source development
+- Backend & automation
+- Game music
+- 3D animation
+- Learning new technologies
+
+## Motivation
+
+I enjoy turning ideas into real projects.
+
+For me, programming isn't just about writing code. It's about solving problems, learning something new every day, and creating things that continue to improve over time.
+
+I believe small improvements eventually become great software.
+
+---
+
+*"Build. Learn. Improve."*
