@@ -1,4 +1,4 @@
-# Hi, I'm Nito.
+# Hi, I'm Nito.🩵
 
 I build software because I enjoy creating things that people can actually use.
 
